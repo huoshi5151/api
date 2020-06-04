@@ -1,11 +1,11 @@
 开发所用json及静态资源
 首先要在根目录下安装serve
-```python
+```
 npm install serve
 ```
 
 需要使用资源时，启动服务
-```python
+```
 serve -p 8686
 ```
 
